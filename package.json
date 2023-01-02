@@ -1,7 +1,20 @@
 {
   "name": "vue-latest-table",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.2",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/vue-latest-table.umd.cjs",
+  "module": "./dist/vue-latest-table.js",
+  "types": "./dist/main.d.js",
+  "exports": {
+    ".": {
+      "import": "./dist/vue-latest-table.js",
+      "require": "./dist/vue-latest-table.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
