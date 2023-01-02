@@ -166,3 +166,8 @@ in the template section
 You can implement some styles for the table in your App.vue or the page where you use it.
 
 ### 📷 Screenshots
+
+<img width="1163" alt="Screen Shot 2023-01-02 at 19 10 55" src="https://user-images.githubusercontent.com/7488394/210258840-a1d30357-e28d-438b-985c-09e55195900f.png">
+<img width="1127" alt="Screen Shot 2023-01-02 at 19 15 32" src="https://user-images.githubusercontent.com/7488394/210258844-f1503791-da04-4b78-b1b0-8e3be738025d.png">
+<img width="1152" alt="Screen Shot 2023-01-02 at 19 11 17" src="https://user-images.githubusercontent.com/7488394/210258846-e2dc0543-5e2e-440c-8162-16405d65fa78.png">
+
